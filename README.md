@@ -25,5 +25,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-## Tecnologias Utilizadas
+## Projetos de Informatica 
+Dados Abertos: 
+![Captura de tela 2024-10-24 211538](https://github.com/user-attachments/assets/13e6d5e5-1748-46f9-91c8-aac193c4e0b5)
+
+Tarefa 1 Power BI:
+![Captura de tela 2024-10-24 212038](https://github.com/user-attachments/assets/77dd5dac-9452-46ec-aed2-e02cdbdd9ff9)
+
+Tarefa 2: 
+![Captura de tela 2024-10-24 212321](https://github.com/user-attachments/assets/33e4be86-a55f-4674-a973-5a21ae4a70a1)
+
 
