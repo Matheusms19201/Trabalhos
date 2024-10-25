@@ -4,17 +4,6 @@ Template para os projetos do curso de graduação em Logística, ensinando na ut
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
-
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-
 
 # Projeto (API) 
 Descrição da demanda realizada pelo parceiro acadêmico.
@@ -37,10 +26,4 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Desenvolver habilidades técnicas.
 
 ## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
