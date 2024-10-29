@@ -10,6 +10,7 @@
 
 ## Projetos de Informatica 
 Dados Abertos: 
+![Captura de tela 2024-10-29 202004](https://github.com/user-attachments/assets/d9d7324b-79b5-4047-b5be-b4e811e5916a)
 ![Captura de tela 2024-10-24 211538](https://github.com/user-attachments/assets/13e6d5e5-1748-46f9-91c8-aac193c4e0b5)
 
 Tarefa 1 Power BI:
