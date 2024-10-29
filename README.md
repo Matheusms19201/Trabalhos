@@ -36,6 +36,13 @@ Tarefa 2:
 ![Captura de tela 2024-10-24 212321](https://github.com/user-attachments/assets/33e4be86-a55f-4674-a973-5a21ae4a70a1)
 
 Tarefa 3:
+![Captura de tela 2024-10-29 200809](https://github.com/user-attachments/assets/a8500592-c11c-452d-95b9-7b1d941015f0)
+
+Tarefa 4: 
+![Captura de tela 2024-10-29 200441](https://github.com/user-attachments/assets/52c796a1-997f-4dcf-b32e-160abd9014b7)
+![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
+
+
 
 
 
