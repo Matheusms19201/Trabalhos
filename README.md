@@ -35,4 +35,7 @@ Tarefa 1 Power BI:
 Tarefa 2: 
 ![Captura de tela 2024-10-24 212321](https://github.com/user-attachments/assets/33e4be86-a55f-4674-a973-5a21ae4a70a1)
 
+Tarefa 3:
+
+
 
