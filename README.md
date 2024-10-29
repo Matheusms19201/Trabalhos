@@ -1,14 +1,11 @@
 # Aprendizado em Informatica em Gestão de Produção Industrial.
 
-# Equipe
+# Redes Sociais 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Matheus Santos        |https://www.instagram.com/_mdsantos_?igsh=NXRnOW5tMXc3ZGJj
-| Scrum Master  | Erick Santos |      https://www.instagram.com/erickzix?igsh=MWNnbGZsZmR3bDU2MA==|
-| Team Member   | Marlon Veres              |  https://www.instagram.com/_mveres_?igsh=MWR3dXNtMThlczNjOA==|
-|  Team Member  | Kleber William                 |         https://www.instagram.com/william_cesar9?igsh=MWY2eWV0ZzY2OTdoZQ==        |
-|  Team Member  | Acledson Jaime                 | https://www.instagram.com/jaime_santoos?igsh=Z3V5bXExdDk4ZTZw    |
-|  Team Member  | Heloise Maria        |           
+
+    
 
 
 ## Projetos de Informatica 
