@@ -26,7 +26,7 @@ Tarefa 4:
 ![Captura de tela 2024-10-29 200441](https://github.com/user-attachments/assets/52c796a1-997f-4dcf-b32e-160abd9014b7)
 
                                              METAS A SEREM ATINGIDAS 
-            ![metas](https://github.com/user-attachments/assets/41a509f8-05a1-4593-bd2b-5b90e7cf01ed)
+![Captura de tela 2024-10-31 204102](https://github.com/user-attachments/assets/3aa6b427-8772-4f03-90d7-ae687b850b84)
 
 Meta 1:
 ![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
