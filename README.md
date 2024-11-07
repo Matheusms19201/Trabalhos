@@ -9,6 +9,9 @@
 
 
 ## Projetos de Informática 
+Apresentação Pessoal sobre a música: 
+![Captura de tela 2024-11-07 201832](https://github.com/user-attachments/assets/d70e9320-f59b-46eb-b967-330d33b1b968)
+
 Dados Abertos: 
 ![Captura de tela 2024-10-29 202004](https://github.com/user-attachments/assets/d9d7324b-79b5-4047-b5be-b4e811e5916a)
 ![Captura de tela 2024-10-24 211538](https://github.com/user-attachments/assets/13e6d5e5-1748-46f9-91c8-aac193c4e0b5)
@@ -31,7 +34,6 @@ Tarefa 4:
 Meta 1:
 ![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
 
-Meta 2 e 
 
 
 
