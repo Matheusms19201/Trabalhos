@@ -31,8 +31,8 @@ Tarefa 4:
 Meta 1:
 ![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
 
-Meta 2 e 3:
-![Captura de tela 2024-10-31 203409](https://github.com/user-attachments/assets/7d2c33f9-53e6-4e1a-9bb1-1227cf85dd8b)
+Meta 2 e 
+
 
 
 
