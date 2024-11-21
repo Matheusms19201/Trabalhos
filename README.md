@@ -34,10 +34,11 @@ Tarefa 4:
 Meta 1:
 ![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
 
-APLICATIVO CRIADO 
+App
 ![Captura de tela 2024-11-21 203649](https://github.com/user-attachments/assets/9b87a41c-7e8b-4727-98a4-41da6d4785a1)
 
-Versão de Mobile 
+VERSÃO MOBILE
+
 ![Captura de tela 2024-11-21 203822](https://github.com/user-attachments/assets/42fd9eec-77c2-47b3-b0fc-6e5ffd5dd58c)
 
 
