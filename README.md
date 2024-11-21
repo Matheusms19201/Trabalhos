@@ -34,6 +34,11 @@ Tarefa 4:
 Meta 1:
 ![Captura de tela 2024-10-29 200559](https://github.com/user-attachments/assets/df71a610-2913-469d-84d6-186a5d2ad6e8)
 
+APLICATIVO CRIADO 
+
+
+
+
 
 
 
