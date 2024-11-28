@@ -41,6 +41,10 @@ VERSÃO MOBILE
 
 ![Captura de tela 2024-11-21 203822](https://github.com/user-attachments/assets/42fd9eec-77c2-47b3-b0fc-6e5ffd5dd58c)
 
+Industria Farmaceutica 
+![Captura de tela 2024-11-28 201701](https://github.com/user-attachments/assets/d2df2356-d1a9-4184-9ef7-1f4a7a37bc99)
+
+
 
 
 
